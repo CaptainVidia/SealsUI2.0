@@ -17,7 +17,11 @@ namespace SealsUI2._0
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new FormSeals());
+        }
+        private void buttonImportCSV_Click(Object sender, EventArgs e)
+        {
+            
         }
     }
 }

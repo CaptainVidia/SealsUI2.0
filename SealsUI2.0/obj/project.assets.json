@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\George Tang\\source\\repos\\SealsUI2.0\\SealsUI2.0\\SealsUI2.0.csproj",
+      "projectUniqueName": "C:\\Users\\George Tang\\Documents\\GitHub\\SealsUI2.0\\SealsUI2.0\\SealsUI2.0.csproj",
       "projectName": "SealsUI2.0",
-      "projectPath": "C:\\Users\\George Tang\\source\\repos\\SealsUI2.0\\SealsUI2.0\\SealsUI2.0.csproj",
+      "projectPath": "C:\\Users\\George Tang\\Documents\\GitHub\\SealsUI2.0\\SealsUI2.0\\SealsUI2.0.csproj",
       "packagesPath": "C:\\Users\\George Tang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\George Tang\\source\\repos\\SealsUI2.0\\SealsUI2.0\\obj\\",
+      "outputPath": "C:\\Users\\George Tang\\Documents\\GitHub\\SealsUI2.0\\SealsUI2.0\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
